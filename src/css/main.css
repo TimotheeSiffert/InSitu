@@ -90,3 +90,8 @@ body {
 .slide.active {
   display: block;
 }
+
+.noblur {
+  opacity: 1 !important;
+  filter: none !important;
+}
